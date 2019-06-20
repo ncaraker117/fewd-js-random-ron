@@ -1,6 +1,6 @@
 # Random Ron Exercise
 
-Use the [Random Ron API](https://github.com/jamesseanwright/ron-swanson-quotes) to create a quick web app that display random quotes from Ron Swanson.
+Use the [Random Ron API](https://github.com/jamesseanwright/ron-swanson-quotes) to create a quick web app that displays random quotes from Ron Swanson.
 
 ## Instructions
 
