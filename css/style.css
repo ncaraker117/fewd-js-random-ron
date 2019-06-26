@@ -65,5 +65,7 @@ button {
   border: none;
   position: relative;
   bottom: 4.25em;
-
+}
+button:focus {
+  outline:0;
 }
